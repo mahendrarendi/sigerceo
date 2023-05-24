@@ -30,8 +30,8 @@
             <div class="col-lg-12">
                 <div style="padding: 0 10px;text-align:justify"> 
                     <h4>Kantor</h4>
-                    <p><i style="margin-right:10px" class="fa fa-map-marker"></i>Jalan H. Ipin, RT. 8/ RW. 1, Kel, RT.7/RW.1, Pd. Labu, Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12450</p>
-                    <p><i style="margin-right:10px" class="fa fa-phone"></i>+62 821 5480 5956</p>
+                    <p><i style="margin-right:10px" class="fa fa-map-marker"></i>Jl. Prof. Moch Yamin, Ketintang, Kec. Gayungan, Surabaya, Jawa Timur 60231</p>
+                    <!-- <p><i style="margin-right:10px" class="fa fa-phone"></i>+62 821 5480 5956</p> -->
                 </div>
             </div>
         </div>

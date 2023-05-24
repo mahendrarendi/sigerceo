@@ -75,7 +75,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <p>Copyright &copy; 2022 - <a href="?module=home">PT SIGERCEP EXPRESS</a></p>
+                        <p>Copyright &copy; 2023 - <a href="?module=home">PT SIGERCEP EXPRESS</a></p>
                     </div>
                 </div>
             </div>

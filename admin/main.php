@@ -176,7 +176,7 @@ session_start();      // memulai session
 				<div class="footer-inner">
 					<div class="footer-content">
 						<span class="bigger-120">
-							&copy; 2022 -
+							&copy; 2023 -
 							<span class="blue bolder">PT SIGERCEP EXPRESS</span>
 						</span>
 					</div>

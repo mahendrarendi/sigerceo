@@ -1,4 +1,5 @@
-<ul class="nav navbar-nav navbar-right">
+<!-- <ul class="nav navbar-nav navbar-right"> -->
+<ul class="navbar-nav ml-auto mx-auto">
 <?php   
 // fungsi untuk pengecekan menu aktif
 // jika menu home dipilih, menu home aktif
